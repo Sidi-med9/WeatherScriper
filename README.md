@@ -36,7 +36,6 @@ WeatherScriper/
 ├── output.txt
 ├── requirements.txt
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
 
